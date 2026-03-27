@@ -28,7 +28,7 @@ This repository contains my projects related to data analytics and business anal
 - Created dashboards and reports.
 
 
-### E-Commerce Sales Data Analysis Project
+### 1. E-Commerce Sales Data Analysis Project
 Tools: SQL, Python (Pandas, Matplotlib), Jupyter Notebook
 •	Analysed e-commerce sales data to identify key business KPIs such as revenue, profit, and order trends.
 •	Wrote optimized SQL queries to extract, filter, and aggregate large datasets.
@@ -36,7 +36,7 @@ Tools: SQL, Python (Pandas, Matplotlib), Jupyter Notebook
 •	Created visualizations to analyse category-wise sales and profit distribution.
 •	Generated actionable insights to support business decision-making.
 
-### Pizza Sales Analysis Project
+### 2. Pizza Sales Analysis Project
 Tools: SQL, Python, Data Visualization
 •	Analysed pizza sales data to evaluate customer demand and sales performance.
 •	Calculated KPIs including total revenue, average order value, and top-selling pizzas.
@@ -44,14 +44,14 @@ Tools: SQL, Python, Data Visualization
 •	Visualized results using charts for better understanding of business patterns.
 •	Summarized insights to improve inventory planning and marketing strategy.
 
-### Certificate:
+### 🔹 Certificate:
 HR Internship Certificate
 Organization: [Adani Wilmar]
 •	Completed internship in HR operations and documentation.
 •	Assisted in data entry, employee record management, and report preparation.
 •	Gained practical experience in professional communication and organizational workflow.
 
-### Data Analytics Certificate
+### 🔹 Data Analytics Certificate
 IT Sparks Academy 2025-26 
 •	SQl
 •	Python
