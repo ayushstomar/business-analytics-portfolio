@@ -24,8 +24,3 @@ This repository contains my projects related to data analytics and business anal
 - Python
 - Excel
 - Power BI (if used)
-
-12. 12.Analyze the cumulative revenue generated over time.
-      
-      
-
