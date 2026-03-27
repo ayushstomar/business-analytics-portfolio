@@ -25,8 +25,6 @@ This repository contains my projects related to data analytics and business anal
 - Excel
 - Power BI (if used)
 
--SQL E-Commerce-
-“Data Analysis on Pizza Store Data”
 
 
 
